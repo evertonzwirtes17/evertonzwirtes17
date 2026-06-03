@@ -23,7 +23,7 @@
 ## 🌎 Onde me encontrar
 
 <p align="center">
-  <a href="https://www.instagram.com/https://www.instagram.com/ever.tondev">
+  <a href="https://www.instagram.com/ever.tondev">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
