@@ -51,5 +51,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&row=1&column=7"/>
+ 
 </p>
